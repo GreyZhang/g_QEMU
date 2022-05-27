@@ -1,0 +1,5 @@
+* g_QEMU
+QEMU is a good toolt for emulation and development. I need some basic knowledge and skills to support my hacking.
+** 计划
+** 学习笔记
+- [[https://blog.csdn.net/grey_csdn/article/details/125010411][1251_FreeRTOS_QEMU例程中的QEMU命令参数分析]]
